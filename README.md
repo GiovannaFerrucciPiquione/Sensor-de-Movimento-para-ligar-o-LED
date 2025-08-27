@@ -1,4 +1,5 @@
 # Sensor de Movimento para Ligar o LED e Controlar o Servo Motor 💡🤖
+
 ### Materiais Necessários 🛠️:
 
 ESP32 ou ESP8266 (Microcontrolador) 🖥️
@@ -15,7 +16,9 @@ Cabo USB (Para conectar o microcontrolador ao computador) 📡
 
 Software: Arduino IDE ou PlatformIO (Para programar o microcontrolador) 💻
 
+
 ### Passo 1: Conectar os Componentes 🔌
+
 ESP32/ESP8266:
 
 Conecte o pino 5V do ESP32/ESP8266 ao trilho + da protoboard (para alimentação). ⚡
@@ -40,13 +43,17 @@ Fios de Conexão:
 
 Utilize fios jumper para fazer todas as conexões corretamente entre a protoboard e o microcontrolador. 🔌
 
+
 ### Passo 2: Programação 💻
+
 
 Abra o Arduino IDE e selecione a placa correta (ESP32 ou ESP8266). 🖥️
 
 Se ainda não tiver a biblioteca do servo motor instalada, vá até Sketch > Incluir Biblioteca > Gerenciar Bibliotecas... e procure por Servo, instalando-a. 📚
 
+
 ### Passo 3: Carregar o Código ⬆️
+
 
 Conecte o seu ESP32/ESP8266 ao computador via cabo USB. 🔌
 
