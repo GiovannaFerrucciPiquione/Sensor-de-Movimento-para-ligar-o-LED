@@ -59,9 +59,7 @@ Conecte o seu ESP32/ESP8266 ao computador via cabo USB. 🔌
 
 Selecione a porta correta em Ferramentas > Porta. ⚙️
 
-Clique em Carregar para enviar o código para o microcontrolador. 🚀
-
-Passo 4: Testando o Projeto 🧪
+### Passo 4: Testando o Projeto 🧪
 
 Após o upload do código, o servo motor deverá começar a se mover de 0° a 180° e vice-versa. 🔄
 
